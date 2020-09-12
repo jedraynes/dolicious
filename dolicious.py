@@ -4,7 +4,12 @@
 Created on Fri Sep 11 22:11:42 2020
 
 @author: jedraynes
+
 Shoutout to the amazing people at StackOverflow :)
+
+https://github.com/jedraynes/dolicious
+
+If you plan to visualize the resulting csv yourself, consider unpivoting the data.
 """
 def main():
     import requests
